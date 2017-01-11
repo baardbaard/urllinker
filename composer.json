@@ -1,5 +1,5 @@
 {
-    "name": "kwi/urllinker",
+    "name": "baardbaard/urllinker",
     "description": "Autolink URLs in text or html",
     "type": "library",
     "license": "CC0-1.0",
